@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ddb7619a-f934-42e0-ab2f-4e5639e86a7c/deploy-status)](https://app.netlify.com/sites/yus/deploys)
+￼
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
