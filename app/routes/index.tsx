@@ -9,7 +9,7 @@ export default function Index() {
         hi, saya seorang freelancer dibidang pengembangan website (web development) dan desain grafis.
       </p>
       <p>
-        saya familiar dengan html, css, javascript, php, wordpress, JAMstack dan beberapa alat yang sering digunakan dalam proses pengembangan website.
+        saya familiar dengan html, css, javascript, php, wordpress, dan beberapa CMS lainnya. akhir akhir ini saya sedang mempelajari tentang reactjs, JAMstack dan beberapa alat yang sering digunakan dalam proses pengembangan website.
       </p>
       <p>
         dalam hal desain grafis, saya terbiasa dengan alat seperti illustrator, photoshop, coreldraw, gimp, inkscape. beberapa waktu terakhir ini saya menggunakan inkscape sebagai alat utama saya.
